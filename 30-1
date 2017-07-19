@@ -1,7 +1,7 @@
-Chapter 1 Introduction
-第一张 入门
+#Chapter 1 Introduction
+#第一章 导论
 Many definitions have been suggested for what we call a robot. The word may conjure up various levels of technological sophistication, ranging from a simple material handling device to a humanoid. The image of robots varies widely with researchers, engineers, and robot manufacturers. However, it is widely accepted that today’s robots used in industries originated in the invention of a programmed material handling device by George C. Devol. In 1954, Devol filed a U.S. patent for a new machine for part transfer, and he claimed the basic concept of teach- in/playback to control the device. This scheme is now extensively used in most of today's industrial robots.
-对于我们称之为机器人的东西，由很多不同的定义。
+对于我们称之为机器人的东西，有很多不同的定义。
 1.1 Era of Industrial Robots
 1.1 工业机器人的年代
 Devol's industrial robots have their origins in two preceding technologies: numerical control for machine tools, and remote manipulation. Numerical control is a scheme to generate control actions based on stored data. Stored data may include coordinate data of points to which the machine is to be moved, clock signals to start and stop operations, and logical statements for branching control sequences. The whole sequence of operations and its variations are prescribed and stored in a form of memory, so that different tasks can be performed without requiring major hardware changes. Modern manufacturing systems must produce a variety of products in small batches, rather than a large number of the same products for an extended period of time, and frequent changes of product models and production schedules require flexibility in the manufacturing system. The transfer line approach, which is most effective for mass production, is not appropriate when such flexibility is needed (Figure 1-1). When a major product change is required, a special-purpose production line becomes useless and often ends up being abandoned, despite the large capital investment it originally involved. Flexible automation has been a central
